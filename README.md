@@ -3,7 +3,7 @@ __awesome_expo_apps__ A list of apps (and their links) built with expo / react n
 <!-- TOC -->
 
 - [1. Expo Apps](#1-expo-apps)
-    - [1.1. Expo Froggy Street (Crossy Roads Clone)](#11-expo-froggy-street-crossy-roads-clone)
+    - [1.1. Expo Froggy Streets (Crossy Roads Clone)](#11-expo-froggy-streets-crossy-roads-clone)
     - [1.2. Expo RPG](#12-expo-rpg)
     - [1.3. GraphQL NYC App](#13-graphql-nyc-app)
     - [1.4. Ken Wheeler Face Zoom](#14-ken-wheeler-face-zoom)
@@ -20,7 +20,7 @@ __awesome_expo_apps__ A list of apps (and their links) built with expo / react n
 
 # 1. Expo Apps
 
-## 1.1. Expo Froggy Street (Crossy Roads Clone)
+## 1.1. Expo Froggy Streets (Crossy Roads Clone)
 * Expo: https://expo.io/@bacon/froggy-street
 * Author: Evan Bacon [![alt text][6.2]](https://github.com/EvanBacon) [![alt text][1.2]](https://twitter.com/baconbricks)
 * Github: https://github.com/EvanBacon/Expo-Froggy-Street
