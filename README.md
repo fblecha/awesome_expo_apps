@@ -3,10 +3,11 @@ __awesome_expo_apps__ A list of apps (and their links) built with expo / react n
 <!-- TOC -->
 
 - [1. Expo Apps](#1-expo-apps)
-    - [1.1. GraphQL NYC App](#11-graphql-nyc-app)
-    - [1.2. Ken Wheeler Face Zoom](#12-ken-wheeler-face-zoom)
-    - [1.3. Koyn](#13-koyn)
-    - [1.4. Seattle JS App](#14-seattle-js-app)
+    - [1.1. Expo RPG](#11-expo-rpg)
+    - [1.2. GraphQL NYC App](#12-graphql-nyc-app)
+    - [1.3. Ken Wheeler Face Zoom](#13-ken-wheeler-face-zoom)
+    - [1.4. Koyn](#14-koyn)
+    - [1.5. Seattle JS App](#15-seattle-js-app)
 - [2. Expo Snacks](#2-expo-snacks)
     - [2.1. Loading Animation (Soccer Ball)](#21-loading-animation-soccer-ball)
     - [2.2. Responsive React Native Animdated Bar](#22-responsive-react-native-animdated-bar)
@@ -18,14 +19,22 @@ __awesome_expo_apps__ A list of apps (and their links) built with expo / react n
 
 # 1. Expo Apps
 
-## 1.1. GraphQL NYC App
+## 1.1. Expo RPG
+* Expo: https://exp.host/@bacon/rpg
+* Author: Evan Bacon [![alt text][6.2]](https://github.com/EvanBacon) [![alt text][1.2]](https://twitter.com/baconbricks)
+* Github: https://github.com/EvanBacon/expo-rpg
+* Notes: "2D Game built with expo/three.js - BETA, not even close to complete"
+* Screenshot:
+
+
+## 1.2. GraphQL NYC App
 * Expo: https://expo.io/@kkemple/graphql-nyc
 * Author(s): Kurtis Kemple [![alt text][6.2]](https://github.com/kkemple)  [![alt text][1.2]](https://twitter.com/kurtiskemple)
 * Github: https://github.com/kkemple/RNGraphQLNYC
 * Notes: 
 
 
-## 1.2. Ken Wheeler Face Zoom
+## 1.3. Ken Wheeler Face Zoom
 * Expo: https://expo.io/@codedaily/KenWheelerReasonZoom
 * Author(s): Jason Brown [![alt text][1.2]](https://github.com/browniefed) and Ken Wheeler [![alt text][1.2]](https://github.com/kenwheeler)
 * Github: https://github.com/browniefed/KenWheelerReasonZoom
@@ -33,7 +42,7 @@ __awesome_expo_apps__ A list of apps (and their links) built with expo / react n
 * Screenshot: 
 
 
-## 1.3. Koyn
+## 1.4. Koyn
 * Expo: https://expo.io/@datwheat/Koyn
 * Author(s): Juwan Wheatley  [![alt text][1.2]](https://github.com/fiber-god) [![alt text][1.2]](https://twitter.com/fiber_god)
 * Screenshot
@@ -41,12 +50,11 @@ __awesome_expo_apps__ A list of apps (and their links) built with expo / react n
 
 
 
-## 1.4. Seattle JS App
+## 1.5. Seattle JS App
 * Expo: https://expo.io/@thekenwheeler/seattle-js
 * Author(s): FormidableLabs [www](https://formidable.com) [![alt text][6.2]](https://github.com/FormidableLabs) [![alt text][1.2]](https://twitter.com/FormidableLabs)
 * Github: https://github.com/FormidableLabs/seattlejsconf-app
 * Notes: Made with [ReasonML](https://reasonml.github.io) instead of vanilla JS.
-
 
 
 # 2. Expo Snacks
