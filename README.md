@@ -10,7 +10,7 @@ __awesome_expo_apps__ A list of apps (and their links) built with expo / react n
     - [2.1. Loading Animation (Soccer Ball)](#21-loading-animation-soccer-ball)
     - [2.2. Responsive React Native Animdated Bar](#22-responsive-react-native-animdated-bar)
     - [2.3. Snapping Header](#23-snapping-header)
-    - [Common Animation Components](#common-animation-components)
+    - [2.4. Common Animation Components](#24-common-animation-components)
 - [3. Notes](#3-notes)
 
 <!-- /TOC -->
@@ -60,7 +60,7 @@ __awesome_expo_apps__ A list of apps (and their links) built with expo / react n
 * Author(s): Kurtis Kemple [![alt text][1.2]](https://twitter.com/kurtiskemple)
 * Notes: Originally [posted to twitter](https://twitter.com/kurtiskemple/status/885822565373095936)
 
-## Common Animation Components
+## 2.4. Common Animation Components
 * Expo: https://snack.expo.io/Hk4I86hvb 
 * Author: Kurtis Kemple [![alt text][1.2]](https://twitter.com/kurtiskemple)
 * Notes: [Original Post on Twiter](https://twitter.com/kurtiskemple/status/896435724207181825)
