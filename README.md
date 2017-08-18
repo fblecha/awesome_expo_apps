@@ -5,7 +5,8 @@ __awesome_expo_apps__ A list of apps (and their links) built with expo / react n
 - [1. Expo Apps](#1-expo-apps)
     - [1.1. GraphQL NYC App](#11-graphql-nyc-app)
     - [1.2. Ken Wheeler Face Zoom](#12-ken-wheeler-face-zoom)
-    - [1.3. Seattle JS App](#13-seattle-js-app)
+    - [1.3. Koyn](#13-koyn)
+    - [1.4. Seattle JS App](#14-seattle-js-app)
 - [2. Expo Snacks](#2-expo-snacks)
     - [2.1. Loading Animation (Soccer Ball)](#21-loading-animation-soccer-ball)
     - [2.2. Responsive React Native Animdated Bar](#22-responsive-react-native-animdated-bar)
@@ -32,8 +33,15 @@ __awesome_expo_apps__ A list of apps (and their links) built with expo / react n
 * Screenshot: 
 
 
+## 1.3. Koyn
+* Expo: https://expo.io/@datwheat/Koyn
+* Author(s): Juwan Wheatley  [![alt text][1.2]](https://github.com/fiber-god) [![alt text][1.2]](https://twitter.com/fiber_god)
+* Screenshot
+* Notes: Original post - https://twitter.com/fiber_god/status/881992847259561985
 
-## 1.3. Seattle JS App
+
+
+## 1.4. Seattle JS App
 * Expo: https://expo.io/@thekenwheeler/seattle-js
 * Author(s): FormidableLabs [www](https://formidable.com) [![alt text][6.2]](https://github.com/FormidableLabs) [![alt text][1.2]](https://twitter.com/FormidableLabs)
 * Github: https://github.com/FormidableLabs/seattlejsconf-app
