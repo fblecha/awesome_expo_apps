@@ -23,7 +23,7 @@ __awesome_expo_apps__ A list of apps (and their links) built with expo / react n
 
 ## 1.1. Expo Froggy Streets (Crossy Roads Clone)
 * Expo: https://expo.io/@bacon/froggy-street
-* Author: Evan Bacon [![alt text][6.2]](https://github.com/EvanBacon) [![alt text][1.2]](https://twitter.com/baconbricks)
+* Author: Evan Bacon [![alt text][github]](https://github.com/EvanBacon) [![alt text][twitter]](https://twitter.com/baconbricks)
 * Github: https://github.com/EvanBacon/Expo-Froggy-Street
 * Notes:
 * Screenshot:
@@ -31,22 +31,22 @@ __awesome_expo_apps__ A list of apps (and their links) built with expo / react n
 
 ## 1.2. Expo RPG
 * Expo: https://exp.host/@bacon/rpg
-* Author: Evan Bacon [![alt text][6.2]](https://github.com/EvanBacon) [![alt text][1.2]](https://twitter.com/baconbricks)
+* Author: Evan Bacon [![alt text][github]](https://github.com/EvanBacon) [![alt text][twitter]](https://twitter.com/baconbricks)
 * Github: https://github.com/EvanBacon/expo-rpg
 * Notes: "2D Game built with expo/three.js - BETA, not even close to complete"
 * Screenshot:
-
+    * [Splash Screen](./screenshots/exporpg/splash.png)
 
 ## 1.3. GraphQL NYC App
 * Expo: https://expo.io/@kkemple/graphql-nyc
-* Author(s): Kurtis Kemple [![alt text][6.2]](https://github.com/kkemple)  [![alt text][1.2]](https://twitter.com/kurtiskemple)
+* Author(s): Kurtis Kemple [![alt text][github]](https://github.com/kkemple)  [![alt text][twitter]](https://twitter.com/kurtiskemple)
 * Github: https://github.com/kkemple/RNGraphQLNYC
 * Notes: 
 
 
 ## 1.4. Ken Wheeler Face Zoom
 * Expo: https://expo.io/@codedaily/KenWheelerReasonZoom
-* Author(s): Jason Brown [![alt text][1.2]](https://github.com/browniefed) and Ken Wheeler [![alt text][1.2]](https://github.com/kenwheeler)
+* Author(s): Jason Brown [![alt text][github]](https://github.com/browniefed) and Ken Wheeler [![alt text][twitter]](https://github.com/kenwheeler)
 * Github: https://github.com/browniefed/KenWheelerReasonZoom
 * Notes: Example app (it zooms on an image) using [ReasonML](https://reasonml.github.io)
 * Screenshot: 
@@ -54,7 +54,7 @@ __awesome_expo_apps__ A list of apps (and their links) built with expo / react n
 
 ## 1.5. Koyn
 * Expo: https://expo.io/@datwheat/Koyn
-* Author(s): Juwan Wheatley  [![alt text][1.2]](https://github.com/fiber-god) [![alt text][1.2]](https://twitter.com/fiber_god)
+* Author(s): Juwan Wheatley  [![alt text][github]](https://github.com/fiber-god) [![alt text][twitter]](https://twitter.com/fiber_god)
 * Screenshot
 * Notes: Original post - https://twitter.com/fiber_god/status/881992847259561985
 
@@ -79,13 +79,13 @@ __awesome_expo_apps__ A list of apps (and their links) built with expo / react n
 
 ## 2.1. Loading Animation (Soccer Ball)
 * Expo: https://snack.expo.io/HkEZbXiwZ
-* Author(s): Kurtis Kemple [![alt text][1.2]](https://twitter.com/kurtiskemple)
+* Author(s): Kurtis Kemple [![alt text][twitter]](https://twitter.com/kurtiskemple)
 * Github:
 * Notes: 
 
 ## 2.2. Responsive React Native Animdated Bar
 * Expo: https://snack.expo.io/Hk03E4Avb
-* Author(s): Jason Brown [![alt text][1.2]](https://github.com/browniefed)
+* Author(s): Jason Brown [![alt text][twitter]](https://github.com/browniefed)
 * Github: https://github.com/codedailyio/react-native-animated-bar
 * Notes: 
 
@@ -96,7 +96,7 @@ __awesome_expo_apps__ A list of apps (and their links) built with expo / react n
 
 ## 2.4. Common Animation Components
 * Expo: https://snack.expo.io/Hk4I86hvb 
-* Author: Kurtis Kemple [![alt text][1.2]](https://twitter.com/kurtiskemple)
+* Author: Kurtis Kemple [![alt text][twitter]](https://twitter.com/kurtiskemple)
 * Notes: [Original Post on Twiter](https://twitter.com/kurtiskemple/status/896435724207181825)
 * Screenshot:
 
@@ -110,5 +110,5 @@ __awesome_expo_apps__ A list of apps (and their links) built with expo / react n
 
 # 3. Notes
 * This repo uses [gitsocial for icons](https://github.com/carlsednaoui/gitsocial)
-  * Example Github link: [![alt text][6.2]]() 
-  * Example Twitter link: [![alt text][1.2]]()
+  * Example Github link: [![alt text][github]]() 
+  * Example Twitter link: [![alt text][twitter]]()
