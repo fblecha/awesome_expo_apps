@@ -39,7 +39,7 @@ __awesome_expo_apps__ A list of apps (and their links) built with expo / react n
     * [Splash Screen](./screenshots/exporpg/splash.png)
 
 ## 1.3. Expo Voxel (Minecraft-like Rendering)
-* Expo: https://exp.host/@bacon/rpg
+* Expo: https://expo.io/@bacon/voxel
 * Author: Evan Bacon [![alt text][github]](https://github.com/EvanBacon) [![alt text][twitter]](https://twitter.com/baconbricks)
 * Github: https://github.com/EvanBacon/Expo-Voxel
 * Notes: Voxel Terrain made in Expo -- see [youtube tutorial](https://www.youtube.com/watch?v=H-4t-srSSvI&feature=youtu.be)
