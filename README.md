@@ -44,7 +44,7 @@ __awesome_expo_apps__ A list of apps (and their links) built with expo / react n
 * Github: https://github.com/EvanBacon/Expo-Voxel
 * Notes: Voxel Terrain made in Expo -- see [youtube tutorial](https://www.youtube.com/watch?v=H-4t-srSSvI&feature=youtu.be)
 * Screenshot:
-    * [Demo GIF](./screenshots/expovoxel/demo.gif)
+    * [Splash Screen](./screenshots/expovoxel/splash.png)
 
 
 
@@ -68,7 +68,8 @@ __awesome_expo_apps__ A list of apps (and their links) built with expo / react n
 * Author(s): Juwan Wheatley  [![alt text][github]](https://github.com/fiber-god) [![alt text][twitter]](https://twitter.com/fiber_god)
 * Screenshot
 * Notes: Original post - https://twitter.com/fiber_god/status/881992847259561985
-
+* Screenshot:
+    * [Splash Screen](./screenshots/koyn/splash.png)
 
 
 ## 1.7. Seattle JS App
