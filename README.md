@@ -12,6 +12,7 @@ __awesome_expo_apps__ A list of apps (and their links) built with expo / react n
     - [1.7. Seattle JS App](#17-seattle-js-app)
     - [1.8. Throne Fantasy](#18-throne-fantasy)
     - [1.9. Game of Life](#19-game-of-life)
+    - [1.10. Fair and Balanced](#110-fair-and-balanced)
 - [2. Expo Snacks](#2-expo-snacks)
     - [2.1. Loading Animation (Soccer Ball)](#21-loading-animation-soccer-ball)
     - [2.2. Responsive React Native Animdated Bar](#22-responsive-react-native-animdated-bar)
@@ -92,6 +93,13 @@ __awesome_expo_apps__ A list of apps (and their links) built with expo / react n
 * Github: https://github.com/jmfirth/exponent-game-of-life
 * Screenshot:
     * [Splash Screen](./screenshots/gameoflife/splash.png)
+
+## 1.10. Fair and Balanced
+* Expo: https://expo.io/@christinac/fair-and-balanced
+* Author: Christina Cacioppo [![alt text][github]](https://github.com/christinac) [![alt text][twitter]](https://twitter.com/christinacaci)
+* Github: 
+* Screenshot:
+    * [Splash Screen](./screenshots/fairandbalanced/splash.png)
 
 
 # 2. Expo Snacks
