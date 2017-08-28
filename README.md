@@ -110,7 +110,7 @@ __awesome_expo_apps__ A list of apps (and their links) built with expo / react n
 * Github:
 * Notes: 
 
-## 2.2. Responsive React Native Animdated Bar
+## 2.2. Responsive React Native Animated Bar
 * Expo: https://snack.expo.io/Hk03E4Avb
 * Author(s): Jason Brown [![alt text][twitter]](https://github.com/browniefed)
 * Github: https://github.com/codedailyio/react-native-animated-bar
