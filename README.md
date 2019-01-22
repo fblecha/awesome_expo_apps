@@ -13,6 +13,7 @@ __awesome_expo_apps__ A list of apps (and their links) built with expo / react n
     - [1.8. Throne Fantasy](#18-throne-fantasy)
     - [1.9. Game of Life](#19-game-of-life)
     - [1.10. Fair and Balanced](#110-fair-and-balanced)
+    - [1.11. Lyrics King](#111-lyrics-king)
 - [2. Expo Snacks](#2-expo-snacks)
     - [2.1. Loading Animation (Soccer Ball)](#21-loading-animation-soccer-ball)
     - [2.2. Responsive React Native Animdated Bar](#22-responsive-react-native-animdated-bar)
@@ -100,6 +101,12 @@ __awesome_expo_apps__ A list of apps (and their links) built with expo / react n
 * Github: 
 * Screenshot:
     * [Splash Screen](./screenshots/fairandbalanced/splash.png)
+    
+## 1.11. Lyrics King
+* Expo: https://expo.io/@skempin/lyrics-king
+* Author(s): Stephen Kempin [www](https://www.stephenkempin.co.uk) [![alt text][github]](https://github.com/SKempin) [![alt text][twitter]](https://twitter.com/s_kempin)
+* Github: https://github.com/SKempin/Lyrics-King-React-Native
+* Notes: 
 
 
 # 2. Expo Snacks
